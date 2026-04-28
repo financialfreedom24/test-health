@@ -1304,7 +1304,6 @@
     </style>
 </head>
 <body>
-<body>
     <!-- Navbar -->
     <nav class="navbar" id="navbar">
         <div class="nav-container">
@@ -2071,3 +2070,4 @@
     </script>
 </body>
 </html>
+
